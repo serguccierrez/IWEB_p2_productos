@@ -1,0 +1,21 @@
+#cabecera {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 1rem;
+    margin-bottom: 1.5rem;
+    background-color: #cee3f5; /* Azul pastel claro */
+    border: 1px solid #a3b8d4; /* Azul pastel medio */
+  }
+  
+  .logo {
+    width: auto; 
+    height: 5rem; 
+  }
+  
+  .mensaje {
+      font-size: 1.2rem;
+      color: #5a6e8c; /* Azul pastel oscuro */
+  }
+  
