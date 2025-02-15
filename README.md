@@ -67,7 +67,7 @@ _📝 Detailed information about a selected product._
 Sigue estos pasos para instalar y ejecutar el proyecto:
 
 ```bash
-git clone https://github.com/tuusuario/IWEB_p2_productos.git
+git clone https://github.com/serguccierrez/IWEB_p2_productos.git
 cd IWEB_p2_productos
 npm install
 npm run dev
@@ -79,7 +79,7 @@ Abre tu navegador en `http://localhost:3000`.
 Follow these steps to install and run the project:
 
 ```bash
-git clone https://github.com/tuusuario/IWEB_p2_productos.git
+git clone https://github.com/serguccierrez/IWEB_p2_productos.git
 cd IWEB_p2_productos
 npm install
 npm run dev
