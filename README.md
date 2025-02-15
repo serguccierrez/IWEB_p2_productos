@@ -21,12 +21,12 @@ _IWEB_p2_productos_ is a web application for managing and viewing products. It a
 🔵 **EN:** Here’s a preview of the application in action.  
 
 ### 📋 Vista del catálogo de productos | Product catalog view  
-![Catálogo](./miscapturas/catalogo.png)  
+![Catálogo](./miscapturas/category-groceries.png)  
 _🛒 Interfaz de listado de productos con opciones de filtrado._  
 _🔍 Product listing interface with filtering options._
 
 ### 📄 Vista de detalles del producto | Product detail view  
-![Detalles](./miscapturas/detalle.png)  
+![Detalles](./miscapturas/unproducto.png)  
 _📌 Información detallada de un producto seleccionado._  
 _📝 Detailed information about a selected product._
 
